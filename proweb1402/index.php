@@ -76,7 +76,7 @@ if (isset($_SESSION["gagal"])) {
                         <button class="close" type="button" data-dismiss="modal" aria-label="close">&times;</button>
                     </div>
                     <div class="modal-body">
-                        <p>Disini Isi dari Modalnya</p>
+                        <p>Data Belum Lengkap, Lengkapi Dahulu</p>
                     </div>
                     <div class="modal-footer">
                         <button class="btn btn-secondary" type="button" data-dismiss="modal">
